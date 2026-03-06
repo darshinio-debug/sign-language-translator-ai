@@ -135,7 +135,7 @@ Hand gesture representing a sign
 
 Predicted Output:
 
-Predicted Sign: A
+Predicted Sign: hello
 
 
 Speech Output:
